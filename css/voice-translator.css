@@ -1,11 +1,11 @@
 body {
-	font-family: 'Allerta Stencil', sans-serif;
+	font-family: 'Oswald', sans-serif;
 }
 
 h1.title {
 	text-align: left;
 	padding-left: 0.2em;
-}
+} 
 
 div.app {
 	width: 100%;
